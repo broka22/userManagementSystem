@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="user-info-system_evening:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>user-info-system_evening</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="user-info-system_evening.war">
+      <element id="artifact" artifact-name="user-info-system_evening:war exploded" />
+    </root>
+  </artifact>
+</component>
